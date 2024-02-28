@@ -1,3 +1,23 @@
+# Nhom 11
+Nguyen Quoc Ngoc
+Nguyen Trung Dung
+Nguyen Le Thu
+
+# Practice week 1
+
+
+# Practice week 2
+## week 2 - 1st class
+Book.java
+Time.java
+Recursion.java
+
+## week 2 - 2nd class
+
+## week 2 -final
+
+
+
 # Try Out Development Containers: Java
 
 [![Open in Dev Containers](https://img.shields.io/static/v1?label=Dev%20Containers&message=Open&color=blue&logo=visualstudiocode)](https://vscode.dev/redirect?url=vscode://ms-vscode-remote.remote-containers/cloneInVolume?url=https://github.com/microsoft/vscode-remote-try-java)
