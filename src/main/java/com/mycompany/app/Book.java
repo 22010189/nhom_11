@@ -8,4 +8,5 @@ public class Book {
  author = a;
  numPages = p;
  }
+}
  
