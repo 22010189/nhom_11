@@ -6,6 +6,8 @@ InterfacesExercise1_1.java
 # All Exercises on Initialization and Cleanup, from page 107
 
 # All Exercises on Reusing Classess, from page 165
+Reusing1.java
+Reusing2.java
 
 # All Exercises on Polymorphism, from page 193
 
