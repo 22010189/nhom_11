@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "InterfacesExercise1",
+            "request": "launch",
+            "mainClass": "InterfacesExercise1",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "Launch App",
             "request": "launch",
             "cwd": "${workspaceFolder}",

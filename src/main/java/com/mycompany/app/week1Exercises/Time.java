@@ -1,3 +1,4 @@
+package com.mycompany.app.week1Exercises;
 
 public class Time {
     private int hour;

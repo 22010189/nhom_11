@@ -1,3 +1,4 @@
+package com.mycompany.app.week1Exercises;
 public class NameNumber {
  private String lastName;
  private String telNumber;

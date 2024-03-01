@@ -1,3 +1,4 @@
+package com.mycompany.app.week1Exercises;
 public class NNCollection {
  private NameNumber[] nnArray = new NameNumber[100];
  private int free;

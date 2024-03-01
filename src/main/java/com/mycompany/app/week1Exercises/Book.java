@@ -1,3 +1,4 @@
+package com.mycompany.app.week1Exercises;
 public class Book {
  String title;
  String author;
