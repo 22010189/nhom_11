@@ -1,3 +1,5 @@
+package com.mycompany.Exercises_on_Book;
+import Reusing1.java;
 public class SecondClass {
     private FirstClass firstObj;
 
