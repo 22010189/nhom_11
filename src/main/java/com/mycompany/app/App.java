@@ -1,18 +1,12 @@
-/*----------------------------------------------------------------------------------------
- * Copyright (c) Microsoft Corporation. All rights reserved.
- * Licensed under the MIT License. See LICENSE in the project root for license information.
- *---------------------------------------------------------------------------------------*/
-
 package com.mycompany.app;
-import Book;
-import com.mycompany.app.newPackage.*;
-import com.mycompany.app.newPackage.InterfaceExercise1;
+package com.mycompany.app.Week1Code2;
+import com.mycompany.app.Week1Code2.Break_ctn;
 
 public class App {
     public static void main(String[] args) {
+        Break_ctn a = new Break_ctn();
+        a.ctn;
         System.out.println("Hello Remote World!");
-        Book b = new Book();
-        InterfaceExercise1 iE1 = new InterfaceExercise1();
         
     }
 }
