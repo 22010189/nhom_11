@@ -1,11 +1,10 @@
 package com.mycompany.app;
-package com.mycompany.app.Week1Code2;
-import com.mycompany.app.Week1Code2.Break_ctn;
+import PhuongThuc.java;
 
 public class App {
     public static void main(String[] args) {
-        Break_ctn a = new Break_ctn();
-        a.ctn;
+        PhuongThuc a = new PhuongThuc();
+        a.helo();
         System.out.println("Hello Remote World!");
         
     }

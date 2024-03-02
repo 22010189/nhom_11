@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "PhuongThuc",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2Code3.PhuongThuc",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "InterfacesExercise1",
             "request": "launch",
             "mainClass": "InterfacesExercise1",
