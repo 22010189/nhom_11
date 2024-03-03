@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "com.mycompany.app.Week2Code2.Exercise3.test",
+            "projectName": "my-app"
+        },
+        {
+            "type": "java",
             "name": "PhuongThuc",
             "request": "launch",
             "mainClass": "com.mycompany.app.Week2Code3.PhuongThuc",

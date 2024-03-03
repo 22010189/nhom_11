@@ -1,10 +1,11 @@
 package com.mycompany.app;
-import PhuongThuc.java;
+import  com.mycompany.app.Week2Code2.Exercise3.debug;
+import com.mycompany.app.Week2Code2.Exercise3.debug.Debug;
 
 public class App {
     public static void main(String[] args) {
-        PhuongThuc a = new PhuongThuc();
-        helo();
+        Debug d = new Debug();
+        d.debug("xinchao");
         System.out.println("Hello Remote World!");
         
     }
