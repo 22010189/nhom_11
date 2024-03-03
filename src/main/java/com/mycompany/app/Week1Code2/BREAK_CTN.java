@@ -1,4 +1,4 @@
-package com.mycompany.app.Week1Code2
+package com.mycompany.app.Week1Code2;
 
 public class  BREAK_CTN{
 	void ctn(){
