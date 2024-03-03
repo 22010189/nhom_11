@@ -1,4 +1,5 @@
-package com.mycompany.app.week1Exercises;
+package com.mycompany.app.Week2Code1;
+
 public class Recursion {
     
     public static int Recursion(int n) {
