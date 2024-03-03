@@ -1,5 +1,6 @@
+package com.mycompany.app.Week1Code2;
 
-public class Switch{
+public class SwitCH{
     	int day = 4;
     	switch (day) {
     	  case 1:
