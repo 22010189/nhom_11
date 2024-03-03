@@ -2,6 +2,7 @@ package com.mycompany.app.Week1Code2;
 
 public class SwitCH{
     	int day = 4;
+		public void d(){
     	switch (day) {
     	  case 1:
     	    System.out.println("Monday");
@@ -26,3 +27,4 @@ public class SwitCH{
     	    break;
     	}
     }
+}
