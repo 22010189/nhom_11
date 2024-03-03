@@ -2,6 +2,7 @@
  Exercise3
  Exercise4
 # All Exercises on Initialization and Cleanup, from page 107
+Initialization and Cleanup
 
 # All Exercises on Reusing Classess, from page 165
  
