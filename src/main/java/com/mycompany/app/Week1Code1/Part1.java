@@ -1,8 +1,10 @@
+package com.mycompany.app.Week1Code1;
+public class Part1{
 public class Number {
  public int i;
 }
 public class Assignment1 {
- public static void main(String[] args) {
+ 
  Number n1 = new Number();
  Number n2 = new Number();
  n1.i = 2;

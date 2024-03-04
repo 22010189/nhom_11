@@ -1,3 +1,12 @@
+packagge com.package com.mycompany.app.Week1Code1;
+
+/**
+ * Aliasing
+ */
+public class Aliasing {
+
+    
+}
 public class PassObject {
  static void f(Number m) {
  m.i = 15;
