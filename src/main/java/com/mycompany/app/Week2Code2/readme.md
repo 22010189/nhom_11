@@ -4,7 +4,7 @@ AccessControl
 InitializationAndCleanup
 
 # All Exercises on Reusing Classess, from page 165
- 
+ ReusingClassess
 # All Exercises on Polymorphism, from page 193
 
 # All Exercises on Interfaces, from page 219

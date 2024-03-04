@@ -5,6 +5,7 @@ import com.mycompany.app.Week1Code2.SwitCH;
 import com.mycompany.app.Week2Code2.AccessControl.Exercise5.vidu;
 import com.mycompany.app.Week2Code2.AccessControl.Exercise6;
 import com.mycompany.app.Week2Code2.AccessControl.Exercise3.debug.Debug;
+import com.mycompany.app.Week2Code2.ReusingClassess.*;
 public class App { 
     public static void main(String[] args) {
         Debug d = new Debug();
@@ -36,7 +37,16 @@ public class App {
         Exercise6.LopDcBaoVe gg =g.new LopDcBaoVe();
         gg.LopDcBaoVe(5);
         System.out.println(gg.getData());
-    
+        
+        EXercise1 e = new EXercise1();
+        EXercise1.SecondClass ee = e.new SecondClass();
+        EXercise1.FirstClass eee = ee.getObj(100);
+        System.out.println(eee.getValue());
+
+
+
+        
+        
     }
 }
 
