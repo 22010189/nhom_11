@@ -4,6 +4,7 @@ import com.mycompany.app.Week2Code2.Exercise3.debug.Debug;
 import com.mycompany.app.Week1Code2.Each_loop;
 import com.mycompany.app.Week1Code2.SwitCH;
 import com.mycompany.app.Week2Code2.Exercise5.vidu;
+import com.mycompany.app.Week2Code2.Exercise6;
 public class App {
     public static void main(String[] args) {
         Debug d = new Debug();
@@ -31,6 +32,11 @@ public class App {
      // t.m2(); // Không thể truy cập được vì là private
      // t.m3(); // Không thể truy cập được vì là protected
      // t.m4(); // Không thể truy cập được vì là package-access
+        Exercise6 g = new Exercise6();
+        Exercise6.LopDcBaoVe gg =g.new LopDcBaoVe();
+        gg.LopDcBaoVe(5);
+        System.out.println(gg.getData());
+    
     }
 }
 
