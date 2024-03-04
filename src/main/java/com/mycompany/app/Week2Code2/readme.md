@@ -1,13 +1,7 @@
 # All Exercises (e.g. Exercises 3, 4, 5…) on Access Control, from page 145
- Exercise3 
- 
- Exercise4
-
- Exercise5
-
- Exercise6.java
+AccessControl
 # All Exercises on Initialization and Cleanup, from page 107
-Initialization and Cleanup
+InitializationAndCleanup
 
 # All Exercises on Reusing Classess, from page 165
  
