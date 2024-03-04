@@ -2,10 +2,10 @@ package com.mycompany.app;
 import com.mycompany.app.Week2Code3.PhuongThuc;
 import com.mycompany.app.Week1Code2.Each_loop;
 import com.mycompany.app.Week1Code2.SwitCH;
-import com.mycompany.app.Week2Code2.Exercise5.vidu;
-import com.mycompany.app.Week2Code2.Exercise6;
+import com.mycompany.app.Week2Code2.AccessControl.Exercise5.vidu;
+import com.mycompany.app.Week2Code2.AccessControl.Exercise6;
 import com.mycompany.app.Week2Code2.AccessControl.Exercise3.debug.Debug;
-public class App {
+public class App { 
     public static void main(String[] args) {
         Debug d = new Debug();
         d.debug("xinchao");

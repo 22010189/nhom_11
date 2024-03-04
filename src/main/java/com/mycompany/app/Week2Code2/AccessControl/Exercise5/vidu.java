@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2Code2.Exercise5;
+package com.mycompany.app.Week2Code2.AccessControl.Exercise5;
 public class vidu {
     public int a = 10; // Trường public
     private int b = 20; // Trường private

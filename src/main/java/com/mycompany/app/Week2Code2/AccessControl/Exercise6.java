@@ -1,4 +1,4 @@
-package com.mycompany.app.Week2Code2;
+package com.mycompany.app.Week2Code2.AccessControl;
 
 public class Exercise6 {
     public class LopDcBaoVe {
