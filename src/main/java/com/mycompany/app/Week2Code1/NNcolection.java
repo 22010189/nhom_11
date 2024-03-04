@@ -1,9 +1,9 @@
 package com.mycompany.app.Week2Code1;
 
-public class NNCollection {
+public class NNcolection {
  private NameNumber[] nnArray = new NameNumber[100];
  private int free;
- public NNCollection() {free = 0;}
+ public void NNCollection() {free = 0;}
  public void insert(NameNumber n) {
  int index = 0;
  for (int i = free++;

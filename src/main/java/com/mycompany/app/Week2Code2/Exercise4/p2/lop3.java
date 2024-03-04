@@ -1,4 +1,4 @@
-package p2;
+package com.mycompany.app.Week2Code2.Exercise4.p2;
 public class lop3 {
     public void C (){
         lop1 a = new lop1();
