@@ -1,4 +1,4 @@
-public class MessagePrinter {
+public class Exercise3 {
     
     public MessagePrinter() {
         System.out.println("Default message");
