@@ -1,4 +1,4 @@
-
+package com.mycompany.app.Week2Code2.Interfaces;
 abstract class Test {
     private int value;
 
